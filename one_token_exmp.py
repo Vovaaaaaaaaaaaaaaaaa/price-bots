@@ -1,7 +1,7 @@
 import requests
 import telebot
 import time
-BOT_TOKEN="7555823015:AAG12zl1lefcTzB9P-Y_Y6Q5Blocr_z8m5c"
+BOT_TOKEN=""
 
 bot = telebot.TeleBot(BOT_TOKEN)
 print('started')
